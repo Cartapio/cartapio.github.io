@@ -2,8 +2,8 @@
 	margin:0px;
 	padding:0px;
 }
-body{	
-	font-family: 'Open Sans' !important;	
+body{
+	font-family: 'Open Sans' !important;
 }
 h1, h4{
 	font-weight: lighter !important;
@@ -11,9 +11,9 @@ h1, h4{
 .fullscreen-bg{
 	height: 100%;
 	width: 100%;
-	position:fixed;	
+	position:fixed;
 }
-.video-wrapper{	
+.video-wrapper{
 	-webkit-filter: blur(15px);
 	-moz-filter: blur(15px);
 	-o-filter: blur(15px);
@@ -21,16 +21,16 @@ h1, h4{
 	filter: blur(15px);
 }
 .overlay-bg{
-	background: url(../img/overflow.png);	
+	background: url(../img/overflow.png);
 }
 .content-wrapper{
-	color:white;	
+	color:white;
 	padding:100px 0px;
 }
-.content-wrapper .header div{	
+.content-wrapper .header div{
 	padding:20px;
 }
-.content-wrapper .row{	
+.content-wrapper .row{
 	width:600px;
 	margin: 0 auto;
 }
@@ -39,7 +39,7 @@ h1, h4{
 }
 .logo{
 	box-shadow: 1px 1px 10px black;
-	border-radius: 50%;	
+	border-radius: 50%;
 	width: 100%;
 	min-width: 100px;
 	max-width: 100px;
@@ -62,7 +62,7 @@ h1, h4{
 	padding:0px !important;
 }
 .social i{
-	font-size: 20px;	
+	font-size: 20px;
 	margin-top:5px;
 	margin-right:40px;
 }
@@ -71,7 +71,7 @@ h1, h4{
 }
 .c100{
 	float:none;
-	margin:0 auto;	
+	margin:0 auto;
 	background-color: rgba(255,255,255,0.3)
 }
 .c100:after{
@@ -102,7 +102,7 @@ h1, h4{
 	}
 	.content-wrapper .row{
 		width:100%;
-	}	
+	}
 	.divider{
 		margin: 0 auto !important;
 		width:30px !important;
@@ -111,7 +111,7 @@ h1, h4{
 		border-right: 0px;
 	}
 	.social i{
-		font-size: 20px;	
+		font-size: 20px;
 		margin: 0px 20px;
 	}
 	.content-wrapper{
